@@ -1,5 +1,5 @@
 {
-    "name": "friends-of-behat/symfony-extension",
+    "name": "bytes-commerce/symfony-extension",
     "type": "symfony-bundle",
     "description": "Integrates Behat with Symfony.",
     "license": "MIT",
@@ -8,6 +8,11 @@
             "name": "Kamil Kokot",
             "email": "kamil@kokot.me",
             "homepage": "https://kamilkokot.com"
+        },
+        {
+            "name": "Maximilian Graf Schimmelmann",
+            "email": "office@bytes-commerce.de",
+            "homepage": "https://www.bytes-commerce.de"
         }
     ],
     "require": {
