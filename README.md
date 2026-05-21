@@ -4,7 +4,17 @@
 
 <h1 align="center">SymfonyExtension</h1>
 
-This Behat extension provides an integration with Symfony (`^6.0` and `^7.0`) and Mink driver for Symfony application.
+> **Notice**: This package has been adapted for PHP 8.4 and Symfony 8 compatibility.
+> The adapted package is now available as [`bytes-commerce/behat-symfony-extension`](https://github.com/bytes-commerce/behat-symfony-extension).
+>
+> This adaptation has been made possible due to the work of the construction software [www.digiconstruct.de](https://www.digiconstruct.de).
+
+You can get this bundle for your project:
+```bash
+composer require bytes-commerce/behat-symfony-extension
+```
+
+This Behat extension provides an integration with Symfony (`^6.0` through `^8.0`) and Mink driver for Symfony application.
 
 It allows for:
 
